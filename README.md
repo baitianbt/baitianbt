@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm [Your Name]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MES+Engineer;Manufacturing+Systems+Expert;Industrial+Automation+Developer" alt="Typing SVG" />
 </div>
 
 ## 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-youremail%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:youremail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-blue?style=flat-square&logo=github)](https://github.com/yourusername)
 [![Personal Website](https://img.shields.io/badge/Website-yourwebsite.com-blue?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
 
 ---
@@ -18,26 +18,32 @@
 <div align="center">
 
 ### Programming Languages
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Frameworks & Technologies
+![WPF](https://img.shields.io/badge/-WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Tools & Platforms
+### MES & Industrial
+![SCADA](https://img.shields.io/badge/-SCADA-FF6F00?style=for-the-badge&logo=industry&logoColor=white)
+![PLC](https://img.shields.io/badge/-PLC-00979D?style=for-the-badge&logo=industry&logoColor=white)
+![OPC UA](https://img.shields.io/badge/-OPC%20UA-ED1C24?style=for-the-badge&logo=industry&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-01A982?style=for-the-badge&logo=internetofthings&logoColor=white)
+![HMI](https://img.shields.io/badge/-HMI-007ACC?style=for-the-badge&logo=industry&logoColor=white)
+
+### Tools & Databases
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -45,60 +51,60 @@
 
 ## 🚀 Projects
 
-### [Project Name](https://github.com/yourusername/project-name)
-![Stars](https://img.shields.io/github/stars/yourusername/project-name?style=social)
-![Forks](https://img.shields.io/github/forks/yourusername/project-name?style=social)
+### [MES Production Tracking System](https://github.com/yourusername/mes-production-tracking)
+![Stars](https://img.shields.io/github/stars/yourusername/mes-production-tracking?style=social)
+![Forks](https://img.shields.io/github/forks/yourusername/mes-production-tracking?style=social)
 
-- 📌 Description of the project in one or two sentences
-- 💡 Key technologies: **React, Node.js, MongoDB**
-- 🔑 Key features: Feature 1, Feature 2, Feature 3
-- 🔗 [Live Demo](https://project-demo.com)
+- 📌 Manufacturing execution system for real-time production monitoring and control
+- 💡 Key technologies: **C#, WPF, SQL Server, OPC UA**
+- 🔑 Key features: Production dashboard, Work order management, Equipment efficiency tracking
+- 🔗 [Demo Screenshots](https://github.com/yourusername/mes-production-tracking/docs)
 
-### [Another Project](https://github.com/yourusername/another-project)
-![Stars](https://img.shields.io/github/stars/yourusername/another-project?style=social)
-![Forks](https://img.shields.io/github/forks/yourusername/another-project?style=social)
+### [Shop Floor Data Collection](https://github.com/yourusername/shopfloor-data)
+![Stars](https://img.shields.io/github/stars/yourusername/shopfloor-data?style=social)
+![Forks](https://img.shields.io/github/forks/yourusername/shopfloor-data?style=social)
 
-- 📌 Description of another impressive project
-- 💡 Key technologies: **Vue.js, Express, PostgreSQL**
-- 🔑 Key features: Feature 1, Feature 2, Feature 3
-- 🔗 [Live Demo](https://another-project.com)
+- 📌 Data collection system with operator interfaces for factory floor
+- 💡 Key technologies: **C#, Windows Forms, SQL Server**
+- 🔑 Key features: Barcode scanning, Equipment integration, Production reporting
+- 🔗 [Documentation](https://github.com/yourusername/shopfloor-data/wiki)
 
-### [Third Project](https://github.com/yourusername/third-project)
-![Stars](https://img.shields.io/github/stars/yourusername/third-project?style=social)
-![Forks](https://img.shields.io/github/forks/yourusername/third-project?style=social)
+### [Manufacturing KPI Dashboard](https://github.com/yourusername/manufacturing-kpi)
+![Stars](https://img.shields.io/github/stars/yourusername/manufacturing-kpi?style=social)
+![Forks](https://img.shields.io/github/forks/yourusername/manufacturing-kpi?style=social)
 
-- 📌 Brief description of your third project
-- 💡 Key technologies: **Java, Spring Boot, MySQL**
-- 🔑 Key features: Feature 1, Feature 2, Feature 3
-- 🔗 [Documentation](https://github.com/yourusername/third-project/docs)
+- 📌 Web-based dashboard for displaying real-time manufacturing KPIs
+- 💡 Key technologies: **Vue.js, ASP.NET Core, SQL Server**
+- 🔑 Key features: OEE tracking, Production metrics, Custom reporting
+- 🔗 [Live Demo](https://yourwebsite.com/kpi-demo)
 
 ---
 
 ## 👨‍💻 Work Experience
 
-### [Company Name](https://companywebsite.com) — Senior Developer
+### [Manufacturing Company](https://manufacturingcompany.com) — Senior MES Engineer
 *January 2021 - Present*
 
-- Developed and maintained key features for company's flagship product
-- Led a team of 5 developers, improving team velocity by 30%
-- Implemented CI/CD pipeline reducing deployment time by 40%
-- Technologies: **React, Node.js, AWS**
+- Designed and implemented custom MES solutions for multiple production lines
+- Led integration of shop floor equipment with enterprise systems
+- Reduced production data entry time by 45% through automation
+- Technologies: **C#, WPF, SQL Server, OPC UA**
 
-### [Previous Company](https://previouscompany.com) — Software Engineer
+### [Industrial Solutions Inc.](https://industrialsolutions.com) — MES Developer
 *June 2018 - December 2020*
 
-- Built RESTful APIs used by over 100,000 users
-- Optimized database queries, reducing load times by 60%
-- Collaborated with UX designers to implement responsive UI components
-- Technologies: **Java, Spring, PostgreSQL**
+- Developed operator interfaces for manufacturing execution system
+- Implemented real-time data collection from PLCs and control systems
+- Created reporting dashboards for production metrics and KPIs
+- Technologies: **C#, Windows Forms, ASP.NET, SQL Server**
 
-### [First Company](https://firstcompany.com) — Junior Developer
+### [Automation Systems Ltd.](https://automationsystems.com) — Software Engineer
 *May 2016 - May 2018*
 
-- Developed and maintained frontend components with Vue.js
-- Participated in code reviews and testing
-- Assisted in migration from monolith to microservices architecture
-- Technologies: **Vue.js, Express.js, MongoDB**
+- Developed HMI screens for manufacturing process control
+- Created data collection modules for quality control systems
+- Implemented machine connectivity using OPC and custom protocols
+- Technologies: **C#, .NET, Vue.js, PLC integration**
 
 ---
 
