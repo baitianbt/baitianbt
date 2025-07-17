@@ -1,75 +1,48 @@
-# [Your Name] | MES Engineer
+# [董润泽] | MES 工程师
 
 <div align="center">
   <h3>👨‍💻 Manufacturing Systems Expert | C# Developer | Industrial Automation</h3>
   
-  [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:youremail@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/yourusername)
+  [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:1749492810@qq.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github)](https://github.com/baitianbt)
 </div>
 
-## About Me
+## 关于我
 
-Manufacturing Execution Systems (MES) engineer with expertise in industrial software development. Specialized in designing and implementing custom manufacturing solutions using C#, WPF, and Windows Forms. Experienced in integrating shop floor equipment with enterprise systems and developing real-time dashboards for production monitoring.
 
-## Core Technologies
+制造执行系统 (MES) 工程师，精通工业软件开发。擅长使用 C#、WPF 和 Windows Forms 设计和实施定制制造解决方案。拥有车间设备与企业系统集成以及开发用于生产的的经验
+
+## 关键技能
 
 ```
 C# | WPF | Windows Forms | .NET | Vue.js | ASP.NET | SQL Server | OPC UA
 ```
 
-## Key Skills
 
-<div align="center">
+## 📌 GitHub 项目预览
 
-**💻 Development**  
-C# • WPF • Windows Forms • .NET • Vue.js • ASP.NET • SQL
+| 项目 | ⭐ Star | 🧰 技术栈 | 📄 简介 |
+|------|--------|-----------|--------|
+| [WinForm 开发框架](https://github.com/baitianbt/GC-MES) | ![GitHub Repo stars](https://img.shields.io/github/stars/baitianbt/GC-MES?style=social) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | 基于winform原生控件打造的更加美观的WinForm 开发框架 |
 
-**🏭 Manufacturing**  
-MES • SCADA • PLC Integration • OPC UA • HMI Development • Production Tracking
+| [WPF.MES](https://github.com/baitianbt/MES_WPF) | ![GitHub Repo stars](https://img.shields.io/github/stars/baitianbt/MES_WPF?style=social) | ![.NET 8](https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![FTP](https://img.shields.io/badge/FTP-003B57?style=flat-square&logo=codeberg&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000?style=flat-square&logo=json&logoColor=white) | 基于WPF的MES系统 |
 
-**⚙️ Tools & Methods**  
-Visual Studio • SQL Server • Azure DevOps • Git • Agile Development
+| [Winform.WMS](https://github.com/baitianbt/WMS.Winform) | ![GitHub Repo stars](https://img.shields.io/github/stars/baitianbt/WMS.Winform?style=social) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | 基于winform构造的进存销管理系统 |
 
-</div>
+| [后台管理系统](https://github.com/yourusername/vue-net-admin) | ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/vue-net-admin?style=social) | ![Vue.js](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![.NET 8](https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white) | 前后端分离，支持用户权限、日志管理的后台管理系统 |
 
-## Featured Projects
 
-### MES Production Tracking System
-Manufacturing execution system for real-time production monitoring and control
-- **Technologies:** C#, WPF, SQL Server, OPC UA
-- **Key Features:** Production dashboard, Work order management, Equipment efficiency tracking
+## 工作经历
 
-### Shop Floor Data Collection
-Data collection system with operator interfaces for factory floor
-- **Technologies:** C#, Windows Forms, SQL Server
-- **Key Features:** Barcode scanning, Equipment integration, Production reporting
-
-### Manufacturing KPI Dashboard
-Web-based dashboard for displaying real-time manufacturing KPIs
-- **Technologies:** Vue.js, ASP.NET Core, SQL Server
-- **Key Features:** OEE tracking, Production metrics, Custom reporting
-
-## Professional Experience
-
-**Senior MES Engineer** | Manufacturing Company | 2021-Present
+**MES工程师** | Manufacturing Company | 2021-Present
 - Designed and implemented custom MES solutions for multiple production lines
 - Led integration of shop floor equipment with enterprise systems
 - Reduced production data entry time by 45% through automation
 
-**MES Developer** | Industrial Solutions Inc. | 2018-2020
-- Developed operator interfaces for manufacturing execution system
-- Implemented real-time data collection from PLCs and control systems
-- Created reporting dashboards for production metrics and KPIs
-
-**Software Engineer** | Automation Systems Ltd. | 2016-2018
-- Developed HMI screens for manufacturing process control
-- Created data collection modules for quality control systems
-- Implemented machine connectivity using OPC and custom protocols
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=baitianbt&show_icons=true&theme=default&hide_border=true)
   
 </div>
 
